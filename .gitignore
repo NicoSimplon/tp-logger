@@ -4,4 +4,4 @@ target/
 .project
 
 bin/
-logback.out.xml
+*.log
